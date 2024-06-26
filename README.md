@@ -11,7 +11,7 @@ This repository aims to facilitate efficient project management and knowledge sh
    - **Reference:** [YouTube Video](https://www.youtube.com/watch?v=2hPCX-p_X8Q)
      - ![YouTube Video](https://i.ytimg.com/vi/2hPCX-p_X8Q/hq720.jpg)
    - **Additional Resource:** [YouTube Video](https://www.youtube.com/watch?v=XI5_nsClCYI)
-     - ![YouTube Video](https://i9.ytimg.com/vi/XI5_nsClCYI/hqdefault_custom_1.jpg?sqp=CJDd8bMG-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgqIFQocjAP&rs=AOn4CLBIrNdBrQF6IYuptn3poLVRgQjnFQ.jpg)
+     - ![YouTube Video](https://i9.ytimg.com/vi/XI5_nsClCYI/hqdefault_custom_1.jpg)
 
 2. **KNN Model on Breast Cancer and Their Gene Expressions**
    - **Source:** [SBCB Cumida](https://sbcb.inf.ufrgs.br/cumida)
