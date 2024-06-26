@@ -10,7 +10,6 @@ This repository aims to facilitate efficient project management and knowledge sh
 1)Learning Webscraping 
   ### Reference
    [![YouTube Video](https://i.ytimg.com/vi/2hPCX-p_X8Q/hq720.jpg)](https://www.youtube.com/watch?v=2hPCX-p_X8Q)
-    [![YouTube Video](https://www.youtube.com/watch?v=R8vJCKpgu0Y)
-  [![YouTube Video](https://www.youtube.com/watch?v=7hpQQ36kKtI )
+  [![YouTube Video](https://hd2.tudocdn.net/934119?w=658&h=395.jpg)](https://www.youtube.com/watch?v=R8vJCKpgu0Y)
+  [![YouTube Video](https://hd2.tudocdn.net/934119?w=658&h=395.jpg)](https://www.youtube.com/watch?v=7hpQQ36kKtI)
     
-   
