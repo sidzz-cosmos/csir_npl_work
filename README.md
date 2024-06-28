@@ -15,4 +15,4 @@ This repository aims to facilitate efficient project management and knowledge sh
 
 2. **KNN Model on Breast Cancer and Their Gene Expressions**
    - **Source:** [SBCB Cumida](https://sbcb.inf.ufrgs.br/cumida)
- 
+   - **Source:** [Accession Numbers of genes](https://nordicbiosite.com/product/RC209472L1/PRPF8-NM006445-Human-Tagged-Lenti-ORF-Clone)
