@@ -13,7 +13,7 @@ In SVM, the support vectors are the data points closest to the decision boundary
 
 ### Weights and Coefficients
 
-For linear SVMs, the weight vector \( \mathbf{w} \) directly reflects the importance of each feature. The magnitude of each weight indicates the relevance of the corresponding gene. Higher absolute values of weights suggest greater importance for classification.
+For linear SVMs, the weight vector *w* directly reflects the importance of each feature. The magnitude of each weight indicates the relevance of the corresponding gene. Higher absolute values of weights suggest greater importance for classification.
 
 ## Steps to Identify Relevant Genes
 
